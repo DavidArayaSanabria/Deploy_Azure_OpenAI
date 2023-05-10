@@ -1,2 +1,2 @@
-# Deploy_Azure_OpenAI
-Deploy Azure OpenAI using Terraform
+# Deploy Azure OpenAI using Terraform and Azure CLI
+
