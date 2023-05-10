@@ -1,4 +1,4 @@
-# Deploy Azure OpenAI using Terraform and Azure CLI
+# Deploy Azure OpenAI using Terraform and Azure CloudShell
 
 ## Prerequisites
 
