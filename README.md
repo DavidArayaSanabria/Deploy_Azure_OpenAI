@@ -52,6 +52,7 @@ For that you can also use Terraform or any other supported method.
 
 [gateway_connection](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network_gateway_connection)
 
+## Configure you OpenAI Service using the OpenAI Studio tool.
 
 
 
