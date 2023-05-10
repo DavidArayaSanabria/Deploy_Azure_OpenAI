@@ -33,7 +33,7 @@ Create a new folder for the project and run the command ```terraform init``` to 
 Create a new ```.tf``` file inside of the folder, it can be modified by using the command ```code``` in CloudShell for you to paste for modified [Terraform Template](https://github.com/DavidArayaSanabria/Deploy_Azure_OpenAI/blob/79a4f4c52487455b87ec9339694b227905ff3d11/Template.tf) and save the file.
 Back on the project's folder, run the command ```terraform plan``` the output will show you what Terraform will deploy on your subscription
 
-![Alt text](https://github.com/DavidArayaSanabria/Deploy_Azure_OpenAI/blob/9b7768fc9022da667430d598bd946b5bf83f85e8/Images/tfoutput.png)
+![alt text](https://github.com/DavidArayaSanabria/Deploy_Azure_OpenAI/blob/9b7768fc9022da667430d598bd946b5bf83f85e8/Images/tfoutput.png)
 
 
 
