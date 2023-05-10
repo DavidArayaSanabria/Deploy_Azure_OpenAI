@@ -38,7 +38,24 @@ Back on the project's folder, run the command ```terraform plan``` the output wi
 
 Review the output to finally run ```terraform apply``` 
 
+Terraform will deploy these resources in your resoruce group:
 ![alt text](https://github.com/DavidArayaSanabria/Deploy_Azure_OpenAI/blob/8e09025966a7603be65efdd24f261fcaf1844201/Images/resoruces.tf.png) 
+
+## 3 Setup a Site to Site VPN to Azure using the deployed virtual network gateway.
+
+You will need to create a local network gateway and a connection to establish connectivity.
+[Guide](https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal#LocalNetworkGateway)
+
+For that you can also use Terraform or any other supported method.
+
+[azurerm_local_network_gateway](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/local_network_gateway)
+[azurerm_virtual_network_gateway_connection](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network_gateway_connection)
+
+
+
+
+
+
 
 
 
