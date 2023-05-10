@@ -38,6 +38,8 @@ Back on the project's folder, run the command ```terraform plan``` the output wi
 
 Review the output to finally run ```terraform apply``` 
 
+![alt text](https://github.com/DavidArayaSanabria/Deploy_Azure_OpenAI/blob/8e09025966a7603be65efdd24f261fcaf1844201/Images/resoruces.tf.png) 
+
 
 
 
